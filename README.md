@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 I am a final year BCA student passionate about Data Analytics and Data Science.<br>Skilled in Excel dashboards ,SQl , MySQl , Python (NumPY and Pandas).<br><br>Building real world projects in data analytics , it management system and dashboards
 
@@ -17,8 +16,6 @@ I am a final year BCA student passionate about Data Analytics and Data Science.<
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HamzaIsAnalyzing&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
